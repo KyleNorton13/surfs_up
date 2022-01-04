@@ -8,4 +8,5 @@ The purpose of this module challenge was to use SQLALchemy to obtain statistical
 
 ### June Temps
 The temperature statistics for the month of June are displayed below. As we can see the count of the number of dates used in this analysis is 1,700. From these 17,000 different data points, the average temperature in June is roughly 75 degrees, minimum temperature was 64 degrees and the max temperature was 85 degrees. 
+
 ![image](https://user-images.githubusercontent.com/87450415/147999822-47c2498b-7c4d-4a8f-9c6a-448e89046125.png)
