@@ -7,7 +7,12 @@ The purpose of this module challenge was to use SQLALchemy to obtain statistical
 ## Results ##
 
 ### June Temps ###
-The temperature statistics for the month of June are displayed below. As we can see the count of the number of data points used in this analysis is 1,700. From these 1,700 different data points, the average temperature in June was roughly 75 degrees, minimum temperature was 64 degrees and the max temperature was 85 degrees. 
+The temperature statistics for the month of December are displayed below. 
+
+* Number of Data Points - 1,700
+* Maximum Temperature - 85
+* Minimum Temperature - 64
+* Average Temperature - 75 
 
 ![image](https://user-images.githubusercontent.com/87450415/147999822-47c2498b-7c4d-4a8f-9c6a-448e89046125.png)
 
@@ -16,6 +21,24 @@ The temperature statistics for the month of June are displayed below. As we can 
 The temperature statistics for the month of December are displayed below. 
 
 * Number of Data Points - 1,517
+* Maximum Temperature - 83
+* Minimum Temperature - 56
+* Average Temperature - 71
 
 
 ![image](https://user-images.githubusercontent.com/87450415/148000122-cc22d27e-7e7a-4a08-a4ea-80b68f607a06.png)
+
+## Summary ##
+
+The results from gathering the data for the months or June and December show that the weather remains fairly consistent from June to December. The average temperature only drops roughly 4 degrees, maximum temperature drops 2 degrees and the minimum temperature has the most significant decrease of 9 degrees. 
+
+Below I have created an additional two queries to display the precipitation statistics for the months December and June. 
+
+![image](https://user-images.githubusercontent.com/87450415/148001209-8b4f0737-4098-495b-981c-b5539dae2e73.png)
+
+![image](https://user-images.githubusercontent.com/87450415/148001298-32705150-4329-4c97-9900-07b6f683152d.png)
+
+
+
+
+
